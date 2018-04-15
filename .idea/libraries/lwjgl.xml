@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lwjgl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl/lwjgl-debug.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl/substance-7.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl/trident-7.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl/log4j-api-2.0-beta9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl/lzma.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
